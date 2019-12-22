@@ -1,2 +1,2 @@
 ## C_Practice_1
-*hello*
+practice c
